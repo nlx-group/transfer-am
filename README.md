@@ -2,12 +2,12 @@
 
 This page is still **under development**.
 
-This repository contains the code and materials to reproduce the experiments for the [paper](https://coling2022.org/):
+This repository contains the code and materials to reproduce the experiments for the [paper](https://aclanthology.org/2022.coling-1.597/):
 
 ```
 Transferring Confluent Knowledge to Argument Mining
-João A. Rodrigues and António Branco
-to appear at COLING 2022
+João A. Rodrigues and António Branco, 2022
+Proceedings of the 29th International Conference on Computational Linguistics
 ```
 
 ## Abstract
